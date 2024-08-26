@@ -90,3 +90,6 @@ jobs:
  Install Dependencies: Installs Java project dependencies.
  Run Java Tests: Executes Java tests.
  Run Bash Script: Executes the Bash script to validate API responses.
+
+ Note: I have also included the Junit framework to run the same tests with the Junit framework.
+ in order to run with the Junit you need to use the maven command or run button or you can directly run the DataValidationTest.java class.
